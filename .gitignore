@@ -1,0 +1,13 @@
+
+*.dat
+*.ini
+*.exe
+*.manifest
+AcrylicConsole.txt
+AcrylicController.txt
+AcrylicRegExTester.txt
+*.bat
+*.config
+HitLog.*.txt
+License.txt
+Readme.txt
